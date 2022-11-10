@@ -362,17 +362,13 @@
 .completedworks_list { 
     display: flex;
     flex-wrap: wrap;
-    column-gap: 30px;
+    gap: 30px;
 }
 
 .completedworks_item {
     background-color: var(--white);
     width: 370px;
     height: 404px;
-}
-
-.margin {
-    margin-bottom: 30px;
 }
 
 .completedworks_foto {
